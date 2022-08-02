@@ -13,3 +13,4 @@
 
 Fractal Networks is a small startup based out of Missisippi with an international team that is dedicated to helping improve the self-hosting experience by building tools and products around it.
 We believe that everyone should have the ability and the right to run their own software and own their own data.
+We hope that you will find the tools here useful!
