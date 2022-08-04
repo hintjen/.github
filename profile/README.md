@@ -11,6 +11,8 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-Fractal Networks is an early stage startup based in the United States with an international team that is dedicated to helping improve the self-hosting experience by building free and open source tools.
-We are passionate about building community around self-hosting and believe that everyone should have the ability and the right to run their own software and own their own data.
-We hope that you will find the tools here useful!
+Fractal Networks is non-venture backed U.S. startup with an international team dedicated to making self-hosting more accessible and delightful. We build free and open source software with the intent of delivering robust digital privacy and cybersecurity capabilites to the next generation of Internet citizens. 
+
+Our primary mission is to bootstrap a sustainable digital ecosystem powered by community, free software and the conscious commercialization of self-hosting focused products and services. We believe that everyone should have the ability and the right to run their own software and own their own data.
+
+We hope that you will find the tools here useful and welcome contributions!
