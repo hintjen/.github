@@ -1,4 +1,4 @@
-## Fractal Network Company
+## The Fractal Network Company
 
 
 The Fractal Network Company is a non-venture backed U.S. startup with an international team dedicated to delivering delightful self-hosted user experiences. We build free and open source software with the intent of delivering robust digital privacy and cybersecurity capabilites to the next generation of Internet citizens. 
