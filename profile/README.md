@@ -1,9 +1,9 @@
-## Fractal Networks
+## Fractal (Networks)
 
 
-Fractal Networks is a U.S. based public benefit corporation comitted to bringing non-custodial computing into the mainstream. We build free and open source software to deliver robust digital privacy and cybersecurity capabilites for the next generation of Internet citizens in order to preserve robust free societies. 
+Fractal is an American public benefit corporation comitted to bringing non-custodial computing into the mainstream. Fractal develops free and open source software development tools designed to power the next-generation of online applications and services that go above the cloud and beyond the blockchain.
 
-Our mission is to bootstrap a sustainable ecosystem of privacy respecting, non-custodial applications and services that unlock humanity's full potential. We believe that freedom, knowledge, and privacy are fundamental human rights and that it is our duty to contribute to building an Internet of the people, by the people, and for the people. Join us.
+Our mission is to bootstrap an ecosystem of non-custodial applications developers and provide them to build the support and tools needed to unlock humanity's full potential. We believe that freedom, knowledge, and privacy are fundamental human rights. Join us in building an Internet of the people, by the people, and for the people.
 
 
 ### Contact
