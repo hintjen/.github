@@ -7,13 +7,13 @@ Our mission is to bootstrap an ecosystem of non-custodial application developers
 
 
 ### Contact
-opensource@fractalnetworks.co
+hello@fractalnetworks.co
 
-#fractalnetworks:matrix.org on Matrix
+[#fractalnetworks:matrix.org](https://matrix.to/#/#fractalnetworks:matrix.org) on [Matrix](https://matrix.org)
 
 ## Security
 security@fractalnetworks.co
 
 ## In loving memory of 
-- Pieter Hintjens
-- John Perry Barlow
+- [Pieter Hintjens](https://youtu.be/36bKE_JsHZs?si=sUybJMKLhFZADCUC&t=129) 
+- [John Perry Barlow](https://youtu.be/4XCg3j9jY6A?si=MVMqvmdh6nnqZ-ji&t=56)
