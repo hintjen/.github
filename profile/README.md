@@ -1,7 +1,7 @@
-## ******* Networks
+## Hintjen
 
 
-******* Networks is an American public benefit corporation comitted to bringing non-custodial computing into the mainstream. ******* Networks develops free and open source software digital infrastructure tooling to enable the next-generation of distributed applications and services above the cloud and beyond the blockchain.
+Hintjen is an American public benefit corporation comitted to bringing non-custodial computing into the mainstream. Hintjen develops free and open source software digital infrastructure tooling to enable the next-generation of distributed applications and services above the cloud and beyond the blockchain.
 
 Our mission is to bootstrap an ecosystem of non-custodial application developers by creating the tools they needed to build the Internet of the future, an Internet of the people, by the people, and for the people. Join us.
 
