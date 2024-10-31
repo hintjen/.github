@@ -1,6 +1,6 @@
 ## Hintjen (formerly Fractal Networks)
 
-Hintjen is an American public benefit corporation comitted to bringing non-custodial computing to the mainstream. Hintjen develops free and open source infrastructure solutions at the edge of the Internet in order to unlock capabilities required by next-generation distrubuted applications and services that go above the cloud and beyond the blockchain.
+Hintjen is an American public benefit corporation comitted to bringing non-custodial computing to the mainstream. Hintjen develops free and open source infrastructure solutions at the edge of the Internet in order to enable the next generation of distrubuted applications and services that go above the cloud and beyond the blockchain.
 
 Join us on our mission to bootstrap an ecosystem of forward looking application developers by creating the open tools they needed to build the Internet of the future, an Internet of the people, by the people, and for the people.
 
