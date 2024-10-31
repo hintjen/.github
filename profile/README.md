@@ -1,17 +1,17 @@
-## Hintjen
+## Hintjen (formerly Fractal Networks)
 
-Hintjen is an American public benefit corporation comitted to bringing non-custodial computing into the mainstream. Hintjen develops free and open source network infrastructure tooling that enables the next generation of distributed applications and services, above the cloud and beyond the blockchain.
+Hintjen is an American public benefit corporation comitted to bringing non-custodial computing to the mainstream. Hintjen develops free and open source infrastructure solutions at the edge of the Internet in order to unlock the capabilitse required by next generation distrubuted applications and services that go above the cloud and beyond the blockchain.
 
-Our mission is to bootstrap an ecosystem of non-custodial application developers by creating the tools they needed to build the Internet of the future, an Internet of the people, by the people, and for the people. Join us.
+Our mission is to bootstrap an ecosystem of forward looking application developers by creating the open tools they needed to build the Internet of the future, an Internet of the people, by the people, and for the people. Join us.
 
 
 ### Contact
-hello@ether.ai
+hello@hintjen.com
 
 [#fractalnetworks:matrix.org](https://matrix.to/#/#fractalnetworks:matrix.org) on [Matrix](https://matrix.org)
 
 ## Security
-security@ether.ai
+security@hintjen.com
 
 ## In loving memory of 
 - [Pieter Hintjens](https://youtu.be/36bKE_JsHZs?si=sUybJMKLhFZADCUC&t=129) 
